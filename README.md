@@ -144,6 +144,6 @@ printf("Finall Matrix is = \n");
 
     Dcalculater(array5, 3);
 
-        printf("\\nn");
+        printf("\\\nnnn");
 
 }
